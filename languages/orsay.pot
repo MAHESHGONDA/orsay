@@ -1,0 +1,467 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Barletta Theme\n"
+"POT-Creation-Date: 2016-10-12 18:31+0300\n"
+"PO-Revision-Date: 2015-04-04 15:03+0200\n"
+"Last-Translator: Aigars Silkalns <a.silkalns@gmail.com>\n"
+"Language-Team: MOOZ Themes <info@moozthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_html__;esc_html_e;esc_attr_x:1,2c;_nx:4c,1,2;_n:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:12
+msgid "Page not found"
+msgstr ""
+
+#: ../comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comment"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:32 ../comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:33 ../comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-page.php:28 ../content-single.php:21
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../content-page.php:41 ../content-single.php:49 ../content.php:51
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:45 ../content-single.php:53 ../content.php:55
+msgid "Page"
+msgstr ""
+
+#: ../content-single.php:80 ../content.php:70
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-single.php:80 ../content.php:70
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-single.php:80 ../content.php:70
+msgid "% Comments"
+msgstr ""
+
+#: ../content-single.php:82 ../content.php:72
+msgid "Comments Off"
+msgstr ""
+
+#: ../content.php:17
+msgid "By"
+msgstr ""
+
+#: ../content.php:17
+msgid "on"
+msgstr ""
+
+#: ../content.php:59 ../inc/extras.php:40
+msgid "Continue Reading"
+msgstr ""
+
+#: ../functions.php:9
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../functions.php:10
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:11
+msgid "No Sidebar"
+msgstr ""
+
+#: ../functions.php:12
+msgid "Full Width"
+msgstr ""
+
+#: ../functions.php:15
+msgid "Landscape"
+msgstr ""
+
+#: ../functions.php:16
+msgid "Portrait"
+msgstr ""
+
+#: ../functions.php:53
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:268
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:270
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../functions.php:277
+msgid "Footer Widget 1"
+msgstr ""
+
+#: ../functions.php:279 ../functions.php:288 ../functions.php:297
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../functions.php:286
+msgid "Footer Widget 2"
+msgstr ""
+
+#: ../functions.php:295
+msgid "Footer Widget 3"
+msgstr ""
+
+#: ../functions.php:304
+msgid "Full Width Footer"
+msgstr ""
+
+#: ../functions.php:306
+msgid "Full width footer area for Instagram, etc. Appears in the footer section after widgets."
+msgstr ""
+
+#: ../functions.php:337
+msgid ". All rights reserved."
+msgstr ""
+
+#: ../functions.php:344
+#, php-format
+msgid "Theme by %1$s Powered by %2$s"
+msgstr ""
+
+#: ../header.php:25
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../inc/customizer.php:33
+msgid "Links color"
+msgstr ""
+
+#: ../inc/customizer.php:46
+msgid "Links hover color"
+msgstr ""
+
+#: ../inc/customizer.php:58
+msgid "Post Settings"
+msgstr ""
+
+#: ../inc/customizer.php:59
+msgid "change post settings"
+msgstr ""
+
+#: ../inc/customizer.php:71
+msgid "Display the excerpt instead of the content."
+msgstr ""
+
+#: ../inc/customizer.php:84
+msgid "Hide author name on first page."
+msgstr ""
+
+#: ../inc/customizer.php:97
+msgid "Thumbnail Layout"
+msgstr ""
+
+#: ../inc/customizer.php:100
+msgid "Choose post thumbnail layout"
+msgstr ""
+
+#: ../inc/customizer.php:111
+msgid "Layout options"
+msgstr ""
+
+#: ../inc/customizer.php:112
+msgid "Choose website layout"
+msgstr ""
+
+#: ../inc/customizer.php:124
+msgid "Website Layout Options"
+msgstr ""
+
+#: ../inc/customizer.php:127
+msgid "Choose between different layout options to be used as default"
+msgstr ""
+
+#: ../inc/customizer.php:140
+msgid "Center Menu?"
+msgstr ""
+
+#: ../inc/customizer.php:157
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../inc/customizer.php:170
+msgid "Slider Settings"
+msgstr ""
+
+#: ../inc/customizer.php:172
+msgid "Change slider settings here."
+msgstr ""
+
+#: ../inc/customizer.php:186
+msgid "Choose a category."
+msgstr ""
+
+#: ../inc/customizer.php:200
+msgid "Show Slider?"
+msgstr ""
+
+#: ../inc/template_tags.php:26
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template_tags.php:30
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/template_tags.php:34
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/template_tags.php:62
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template_tags.php:66
+msgid "<div class=\"meta-nav\"><span>Published In</span>%title</div>"
+msgstr ""
+
+#: ../inc/template_tags.php:68
+msgid "<div class=\"meta-nav meta-nav-left\"><span>Previous Post</span>%title</div>"
+msgstr ""
+
+#: ../inc/template_tags.php:69
+msgid "<div class=\"meta-nav meta-nav-right\"><span>Next Post</span>%title</div>"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-about.php:14
+msgid "Widget to author"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-about.php:15
+msgid "Orsay About Author"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-about.php:22
+msgid "About Me"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-about.php:89
+msgid "Title "
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-about.php:96
+msgid "Name "
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-about.php:103
+msgid "Position "
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-about.php:110
+msgid "Content "
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-about.php:117
+msgid "Link to more info "
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-about.php:124
+msgid "Rounded Author Image? "
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-posts.php:13
+#: ../inc/widgets/widget-orsay-posts.php:14
+msgid "Orsay Recent Posts Widget"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-posts.php:20
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-posts.php:90
+msgid "recent Posts"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-posts.php:97
+#: ../inc/widgets/widget-orsay-social.php:29
+#: ../inc/widgets/widget-orsay-social.php:197
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-posts.php:102
+msgid "Limit Posts Number"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:14
+#: ../inc/widgets/widget-orsay-social.php:15
+msgid "Orsay Social Widget"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:36
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:41
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:46
+msgid "LinkedIn"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:51
+msgid "Google+"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:56
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:61
+msgid "YouTube"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:66
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:71
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:76
+msgid "Dribbble"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:81
+msgid "Tumblr"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:86
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:91
+msgid "Last.fm"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:96
+msgid "SoundCloud"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:189
+msgid "Follow me"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:201
+msgid "Enter full URL. If you don't want to display element, leave it's URL field empty."
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:205
+msgid "URL address of your Facebook profile or page"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:211
+msgid "URL address of your Twitter profile"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:217
+msgid "URL address of your Google+ profile"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:223
+msgid "URL address of your Pinterest profile"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:229
+msgid "URL address of your Instagram profile"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:235
+msgid "URL address of your Tumblr profile"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:241
+msgid "URL address of your Dribbble profile"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:247
+msgid "URL address of your Last FM profile"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:253
+msgid "URL address of your Soundcloud profile"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:259
+msgid "URL address of your YouTube channel"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:265
+msgid "URL address of your Flickr profile page"
+msgstr ""
+
+#: ../inc/widgets/widget-orsay-social.php:271
+msgid "URL address of your RSS feed"
+msgstr ""
+
+#: ../inc/wp_bootstrap_navwalker.php:196
+msgid "Add a menu"
+msgstr ""
+
+#: ../index.php:22
+msgid "Previous page"
+msgstr ""
+
+#: ../index.php:23
+msgid "Next page"
+msgstr ""
+
+#: ../searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:14
+msgctxt "placeholder"
+msgid "Search & Help"
+msgstr ""
+
+#: ../searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:35
+msgid "Archives"
+msgstr ""
